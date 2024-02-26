@@ -1,5 +1,7 @@
 <?php
 
+include_once __DIR__ . '/products.php';
+
 class Game extends Products
 {
     public $name;

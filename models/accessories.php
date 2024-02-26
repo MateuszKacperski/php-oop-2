@@ -1,5 +1,7 @@
 <?php
 
+include_once __DIR__ . '/products.php';
+
 class Accessories extends Products
 {
     public $name;
