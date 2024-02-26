@@ -1,6 +1,6 @@
 <?php
 
-class Accessories
+class Accessories extends Products
 {
     public $name;
     public $size;
